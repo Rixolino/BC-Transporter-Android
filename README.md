@@ -63,27 +63,13 @@ BCTransporter isn't just functional—it's beautiful.
 
 ## 🚀 Getting Started
 
+### Credits
+
+We would like to express our gratitude to Martin ([[@CuzImMartin|Thanks to [[Martin|https://github.com/CuzImMartin]] to grent me access to his api for train services) for providing access to his proprietary API for train services.
+
 ### Prerequisites
 - [Flutter SDK](https://docs.flutter.dev/get-started/install)
 - [Dart SDK](https://dart.dev/get-started)
-
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Rixolino/BCTransporterMobileApp.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd mobile_app
-   ```
-3. Install dependencies:
-   ```bash
-   flutter pub get
-   ```
-4. Run the app:
-   ```bash
-   flutter run
-   ```
 
 ---
 
