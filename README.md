@@ -65,7 +65,7 @@ BCTransporter isn't just functional—it's beautiful.
 
 ### Credits
 
-We would like to express our gratitude to [@CuzImMartin](https://github.com/CuzImMartin)] to grent me access to his api for train services) for providing access to his proprietary API for train services.
+We would like to express our gratitude to [@CuzImMartin](https://github.com/CuzImMartin) to grent me access to his api for train services) for providing access to his proprietary API for train services.
 
 ### Prerequisites
 - [Flutter SDK](https://docs.flutter.dev/get-started/install)
